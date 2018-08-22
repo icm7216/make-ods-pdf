@@ -4,3 +4,5 @@ TeX環境の構築とコンパイル方法のメモです。あわせて、pdf�
 *   [TeX環境構築と IPAex フォントの埋め込み。](./TeXLive_install.md)
 *   [Myricaフォントの埋め込み。](./embed_myrica_font.md)
 *   [みかちゃんフォントの埋め込み。](./embed_mikachyan.md)
+
+![each fonts pdf](./each_fonts.png "左から IPAex, Myrica, みかちゃん")
